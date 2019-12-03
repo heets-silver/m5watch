@@ -5,6 +5,6 @@ NTP Watch on M5Stack
 
 Digital Clock using NTP protocol running on M5Stack.
 
-This program depends on the NTP Client library.
+This program depends on the NTP Client library. (https://github.com/arduino-libraries/NTPClient)
 
 Enjoy coding :)
